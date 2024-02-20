@@ -1,7 +1,8 @@
 # kafka Azure Data Engineering Real-time Stock Market Project
 
 
-![Kafka](https://github.com/NADIRHUSSAIN11/kafka-Azure-data-engineering-real-time-stock-market-project/assets/89727973/95602213-bf36-4a43-b978-af9a8c4602f3)
+![Kafka](https://github.com/NADIRHUSSAIN11/kafka-Azure-data-engineering-real-time-stock-market-project/assets/89727973/9914d185-1441-4712-9b57-66fab3b877ff)
+
 
 
 
