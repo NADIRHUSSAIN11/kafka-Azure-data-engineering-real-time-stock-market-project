@@ -1,5 +1,11 @@
 # kafka Azure Data Engineering Real-time Stock Market Project
 
+
+![Kafka](https://github.com/NADIRHUSSAIN11/kafka-Azure-data-engineering-real-time-stock-market-project/assets/89727973/95602213-bf36-4a43-b978-af9a8c4602f3)
+
+
+
+
 This project demonstrates the implementation of a real-time stock data processing pipeline using Apache Kafka, Azure Data Lake Gen2, and Azure Synapse Analytics. The pipeline is designed to produce, consume, and process stock data in real-time.
 
 ## Technologies Used
