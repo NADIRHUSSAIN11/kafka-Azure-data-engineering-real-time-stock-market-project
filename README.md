@@ -64,3 +64,5 @@ This project demonstrates the implementation of a real-time stock data processin
 This README provides an overview of the project and instructions for setting up and running the pipeline. For more detailed information on each component and its implementation, refer to the project files.
 
 Feel free to contribute to this project by submitting pull requests or opening issues for any bugs or feature requests. Let's collaborate to make this real-time stock data processing pipeline even better!
+
+**PLEASE STAR THIS REPO IF YOU LIKE IT**
