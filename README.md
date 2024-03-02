@@ -41,7 +41,7 @@ This project demonstrates the implementation of a real-time stock data processin
 1. Clone the repository:
 
    ```
-   git clone https://github.com/NADIRHUSSAIN11/kafka-Azure-data-engineering-real-time-stock-market-project/edit/main/README.md
+   git clone https://github.com/NADIRHUSSAIN11/kafka-Azure-data-engineering-real-time-stock-market-project/
    ```
 
 2. Install the required dependencies:
